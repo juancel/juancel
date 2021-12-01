@@ -12,3 +12,12 @@ h1{
     font-family: fantasy;
     text-shadow: 15px 35px 5px black ;
 }
+
+p{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-style: italic;
+    text-align: justify;
+    font-size: 1.5em;
+}
